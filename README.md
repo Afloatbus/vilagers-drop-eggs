@@ -8,7 +8,7 @@ Move the datapack to your "datapacks" folder of your save file found in .minecra
 ```
 C:\Users\<User>\AppData\Roaming\.minecraft\saves\<world name>\datapacks
 ```
-Now join the world command with cheats enabled:
+Now join the world command with cheats enabled and run the following command:
 ```
 /reload
 ```
